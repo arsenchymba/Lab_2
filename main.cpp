@@ -9,6 +9,7 @@ public:
 
     QString name1;
     QString name2;
+
     float course;
     QDate date;
 
